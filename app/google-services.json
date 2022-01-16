@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781302655782",
+    "project_id": "gym-management-2172c",
+    "storage_bucket": "gym-management-2172c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781302655782:android:55e27df3643ed8dd686fe7",
+        "android_client_info": {
+          "package_name": "com.example.gymmanagementuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781302655782-aapohhvgrdu32lejt4kh1bg9q0c9j0i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymmanagementuser",
+            "certificate_hash": "e46df68562c8662e886e1f91b47de66dc754709b"
+          }
+        },
+        {
+          "client_id": "781302655782-5ont92pgc9tdpbhbk5oi06a909ssn8fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOMgT_c8qQUOCxqjka3upJjyN3T1RgUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781302655782-5ont92pgc9tdpbhbk5oi06a909ssn8fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

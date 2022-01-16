@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Gym Management User</string>
+    <string name="login_with_number">Register or Login with Mobile Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="address">Address</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="gender">Gender</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="verify">Verify</string>
+    <string name="logout">Logout</string>
+    <string name="dart_mood">Dart Mode</string>
+    <string name="resend">Resend code in 60 sec</string>
+    <string name="enter_the_code">Enter the code</string>
+    <string name="setting">Setting</string>
+    <string name="days3">3 Days of Week</string>
+    <string name="days5">5 Days of Week</string>
+    <string name="days6">6 Days of Week</string>
+    <string name="bmi">Body Mass Index (BMI)</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="feet">Feet</string>
+    <string name="submit">Submit</string>
+    <string name="diet_chart">Diet Chart</string>
+    <string name="time">Time</string>
+    <string name="body_types">Body Types</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="exercise_details">Exercise Details</string>
+    <string name="exercise_video_lint">Exercise Video Link</string>
+    <string name="set">Set</string>
+    <string name="day">Day</string>
+    <string name="day_exercise">Day Exercise</string>
+    <string name="image">Image</string>
+    <string name="related_image">Related Image</string>
+    <string name="reps">Reps</string>
+    <string name="more_option_coming_soon">*More option coming soon</string>
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+    <string-array name="gender_types">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Custom</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
